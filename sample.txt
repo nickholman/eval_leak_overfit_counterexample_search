@@ -1,0 +1,4 @@
+keep	100
+drop	900
+keep	101
+drop	870
